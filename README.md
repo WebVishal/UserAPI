@@ -1,11 +1,13 @@
 #Script_Start
 
-npm strat
+ 1. Front End
 
-#Backend
-./Api_creation
+   npm strat
 
-nodemon index.js
+2. Backend
+
+ cd Api_creation
+ nodemon index.js
 
 
 #Postman
