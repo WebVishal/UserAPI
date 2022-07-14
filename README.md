@@ -7,7 +7,8 @@
 2. Backend
 
  cd Api_creation
- nodemon index.js
+
+nodemon index.js
 
 
 #Postman
